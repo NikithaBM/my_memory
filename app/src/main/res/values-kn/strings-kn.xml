@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಸ್ಮೃತಿ</string>
+    <string name="numPairsEasy">ಜೋಡಿಗಳು: 0/4</string>
+    <string name="numMovesEasy">ಸುಲಭ: 4 x 2</string>
+    <string name="numPairsMedium">ಜೋಡಿಗಳು: 0/9</string>
+    <string name="numMovesMedium">ಸಾಧಾರಣ: 6 x 3</string>
+    <string name="numPairsHard">ಜೋಡಿಗಳು: 0/12</string>
+    <string name="numMoveshard">ಕ್ಲಿಷ್ಟ: 6 x 4</string>
+    <string name="save">ಕಾದಿರಿಸಿ</string>
+    <string name="game_name">ಆಟದ ಹೆಸರು</string>
+    <string name="moves_0">ಲೆಕ್ಕ: 0</string>
+    <string name="pairs_0_4">ಜೋಡಿಗಳು: 0/4</string>
+    <string name="easy_4_x_2">ಸುಲಭ : 4 x 2</string>
+    <string name="medium_6_x_3">ಸಾಧಾರಣ : 6 x 3</string>
+    <string name="hard_6_x_4">ಕ್ಲಿಷ್ಟ: 6 x 4</string>
+    <string name="enter_game_name">ಆಟದ ಹೆಸರು ಬರೆಯಿರಿ</string>
+    <string name="refresh">ಹೊಸತಾಗಿಸಿ</string>
+    <string name="choose_new_size">ಹೊಸ ಅಳತೆ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="create_custom_game">ನಿಮ್ಮದೇ ಹೊಸ ಆಟ ರಚಿಸಿ</string>
+    <string name="download_custom_game">ಬೇರೆ ಆಟ ಡೌನ್ಲೋಡ್ ಮಾಡಿ</string>
+    <string name="Pairs">ಜೋಡಿಗಳು</string>
+    <string name="Moves">ಲೆಕ್ಕ</string>
+    <string name="win_msg">ಅಭಿನಂದನೆಗಳು!.</string>
+    <string name="cust_game_play">ನೀವು ಆಡುತ್ತಿರುವ ಆಟ</string>
+    <string name="won_already_msg">ನೀವು ಈಗಾಗಲೇ ಆಟವನ್ನು ಗೆದ್ದಿದ್ದೀರ!</string>
+    <string name="invalid_move_msg">ತಪ್ಪಾಗಿದೆ</string>
+    <string name="quit_game">ಈ ಆಟವನ್ನು ನಿಲ್ಲಿಸಲು ಬಯಸುವಿರಾ?</string>
+    <string name="no_game_found">ಕ್ಷಮಿಸಿ,ಈ ಹೆಸರಿನ ಆಟ ಸಿಗಲಿಲ್ಲ</string>
+    <string name="play_random_game">ಯಾವುದೋ ಹೊಸ ಆಟ</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943820506191",
+    "project_id": "my-memory-15544",
+    "storage_bucket": "my-memory-15544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943820506191:android:7270108b0a4457bb29563a",
+        "android_client_info": {
+          "package_name": "com.nikitha.mymemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943820506191-npsaa9qrdlle38r2ue2e379c2os4vap7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsstjvNbdh7l5t-q_DHnn-mZR8UdLxx38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943820506191-npsaa9qrdlle38r2ue2e379c2os4vap7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
